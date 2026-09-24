@@ -1,0 +1,70 @@
+{
+  "templateVersion": "0.12.0",
+  "installedAt": "2026-09-24 17:11:51",
+  "files": {
+    "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
+      "installed": "sha256:802fd863a34c622e66cf42bf1561129f7a4758f6851322b285cde32d2502d7ae",
+      "rendered": "sha256:802fd863a34c622e66cf42bf1561129f7a4758f6851322b285cde32d2502d7ae"
+    },
+    "PROJECT-COMMON-AUTO-CHANGELOG-CONTROL.yaml": {
+      "installed": "sha256:8a6f238b75f25ae909bb7971945435be9b68fd13b56b32447a66cd97c0e7c44b",
+      "rendered": "sha256:8a6f238b75f25ae909bb7971945435be9b68fd13b56b32447a66cd97c0e7c44b"
+    },
+    "PROJECT-COMMON-ISSUE-HELPER.yaml": {
+      "installed": "sha256:672e3f9ee2362206b202f83c98ce705c303bc8be77cd2142eb4ffa99df40ad19",
+      "rendered": "sha256:672e3f9ee2362206b202f83c98ce705c303bc8be77cd2142eb4ffa99df40ad19"
+    },
+    "PROJECT-COMMON-README-VERSION-UPDATE.yaml": {
+      "installed": "sha256:7954eb37ee0252506a9040f2d2da96d8b4f4402d27510f15dd722ef9946ef9ac",
+      "rendered": "sha256:7954eb37ee0252506a9040f2d2da96d8b4f4402d27510f15dd722ef9946ef9ac"
+    },
+    "PROJECT-COMMON-RELEASE-PUBLISH.yaml": {
+      "installed": "sha256:18e96bf41ffc81c26e84f4f9d7d47cd50507ba14ca5bdc6ae2fd0093d9724e8f",
+      "rendered": "sha256:18e96bf41ffc81c26e84f4f9d7d47cd50507ba14ca5bdc6ae2fd0093d9724e8f"
+    },
+    "PROJECT-COMMON-VERSION-CONTROL.yaml": {
+      "installed": "sha256:0d377bcae212aebb44ce87a943a0e9467b5150f97ba80c94ae0b41fa67b9c3a1",
+      "rendered": "sha256:0d377bcae212aebb44ce87a943a0e9467b5150f97ba80c94ae0b41fa67b9c3a1"
+    },
+    "PROJECT-REACT-CI.yaml": {
+      "installed": "sha256:e4ab72e0f27396bd1b116223e1b269c24e0fc1c26c0f503bb27cf7e774df9290",
+      "rendered": "sha256:e4ab72e0f27396bd1b116223e1b269c24e0fc1c26c0f503bb27cf7e774df9290"
+    },
+    "PROJECT-REACT-CICD.yaml": {
+      "installed": "sha256:01a2606487276052f46eb5d2e682e4ad92a6275cd0968b31d34402f26eafc083",
+      "rendered": "sha256:01a2606487276052f46eb5d2e682e4ad92a6275cd0968b31d34402f26eafc083"
+    },
+    "PROJECT-NEXT-CI.yaml": {
+      "installed": "sha256:e6f3089b70065b7fc5562fb8784f99969a0aaf3f32ad0d0aaf55f6a835937bd0",
+      "rendered": "sha256:e6f3089b70065b7fc5562fb8784f99969a0aaf3f32ad0d0aaf55f6a835937bd0"
+    },
+    "PROJECT-NEXT-CICD.yaml": {
+      "installed": "sha256:4e1a020910dc107ee854cdf64fa20e84c761957eabf0ecbf0eb2c719d02468d6",
+      "rendered": "sha256:4e1a020910dc107ee854cdf64fa20e84c761957eabf0ecbf0eb2c719d02468d6"
+    },
+    "PROJECT-PYTHON-CI.yaml": {
+      "installed": "sha256:325caff9d8c9ce98d33c5bbce9300634f46fbb43d072bf9beb4e171b084b0e42",
+      "rendered": "sha256:325caff9d8c9ce98d33c5bbce9300634f46fbb43d072bf9beb4e171b084b0e42"
+    },
+    "PROJECT-PYTHON-PR-PREVIEW.yaml": {
+      "installed": "sha256:31f0e0fa41f0d8beb19b95787f91a8a725addf12cf4aabbf0f1ef3999c8c215c",
+      "rendered": "sha256:31f0e0fa41f0d8beb19b95787f91a8a725addf12cf4aabbf0f1ef3999c8c215c"
+    },
+    "PROJECT-PYTHON-SIMPLE-CICD.yaml": {
+      "installed": "sha256:ba514b87d1d59d7cd4e713d39654e10b6429f396432aa2cb548ec4736ac8590a",
+      "rendered": "sha256:ba514b87d1d59d7cd4e713d39654e10b6429f396432aa2cb548ec4736ac8590a"
+    },
+    "PROJECT-GO-CI.yaml": {
+      "installed": "sha256:562173270d0005d1cf716ef27e96ac9677f2ed28f7818c1eca7efa5541b1ed84",
+      "rendered": "sha256:562173270d0005d1cf716ef27e96ac9677f2ed28f7818c1eca7efa5541b1ed84"
+    },
+    "PROJECT-GO-PR-PREVIEW.yaml": {
+      "installed": "sha256:07d9f850c7d89fe70da3a10eb24cffe73fa3b08c32276015231a800265749a00",
+      "rendered": "sha256:07d9f850c7d89fe70da3a10eb24cffe73fa3b08c32276015231a800265749a00"
+    },
+    "PROJECT-GO-SIMPLE-CICD.yaml": {
+      "installed": "sha256:7463171ce527b51e3b0ceb27899b32731f4db348362d79cfd47785461fc017a0",
+      "rendered": "sha256:7463171ce527b51e3b0ceb27899b32731f4db348362d79cfd47785461fc017a0"
+    }
+  }
+}
