@@ -28,8 +28,8 @@
 # - basic: version.yml only
 # ===
 
-version: "0.0.1"
-version_code: 1 # app build number
+version: "0.0.2"
+version_code: 2  # app build number
 project_types: ["react", "next", "python", "go"] # first entry is primary
 project_paths: # 타입별 프로젝트 폴더 (레포 루트 기준 상대경로)
   react: "client" # client/package.json
@@ -37,8 +37,8 @@ project_paths: # 타입별 프로젝트 폴더 (레포 루트 기준 상대경�
   python: "api" # api/pyproject.toml
   go: "svc" # svc/go.mod
 metadata:
-  last_updated: "2026-09-24 17:11:51"
-  last_updated_by: "project-auto-wizard"
+  last_updated: "2026-09-24"
+  last_updated_by: "Cassiiopeia"
   default_branch: "main"
   integration_date: "2026-09-24"
   template:
