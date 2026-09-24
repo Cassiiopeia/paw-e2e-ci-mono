@@ -76,6 +76,9 @@ jobs:
     needs: changes
     if: ${{ github.event_name == 'workflow_dispatch' || needs.changes.outputs.project == 'true' }}
 
+    defaults:
+      run:
+        working-directory: web
     steps:
       # 1. 소스코드 체크아웃
       - name: 코드 체크아웃
@@ -93,6 +96,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: "npm"
+          cache-dependency-path: web/package-lock.json
 
       # 4. npm 의존성 캐싱
       - name: npm 의존성 캐싱

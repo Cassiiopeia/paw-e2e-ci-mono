@@ -66,6 +66,9 @@ jobs:
     needs: changes
     if: ${{ github.event_name == 'workflow_dispatch' || needs.changes.outputs.project == 'true' }}
 
+    defaults:
+      run:
+        working-directory: api
     steps:
       # 1. 소스코드 체크아웃
       - name: 코드 체크아웃
@@ -87,8 +90,8 @@ jobs:
       - name: Docker 이미지 빌드 검증
         uses: docker/build-push-action@v5
         with:
-          context: .
-          file: ./Dockerfile
+          context: api
+          file: api/Dockerfile
           push: false  # 푸시하지 않음 (빌드 검증만)
           tags: ${{ env.PROJECT_NAME }}:build-check
           # GitHub Actions 캐시 사용
